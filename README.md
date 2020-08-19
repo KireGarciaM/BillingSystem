@@ -1,6 +1,3 @@
-# Project 3
-## CSUF CPSC 131, Fall 2019
+A system that handles cash flow in a checking account. Utilizes stack/queue data structures to pay bills that are due first rather than new ones.
 
-REPLACE WITH YOUR OWN NAME AND EMAIL IN THE SAME FORMAT
-
-Erik Garcia Montoya erikgarciam246@csu.fullerton.edu
+Erik Garcia Montoya
